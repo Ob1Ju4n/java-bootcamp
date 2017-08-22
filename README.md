@@ -167,7 +167,7 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 #### Topic 0: Introduction to Object Oriented Programming Concepts (1 day)
 
-##### Reading:#####
+##### Reading:
 
 1. Beginners: Java Concepts [basic tutorial](http://docs.oracle.com/javase/tutorial/java/concepts/) (in case you need it!)
 
