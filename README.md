@@ -13,9 +13,9 @@ exercises**
 
 #JAVA Boot Camp
 
-###Are you ready for it?
+### Are you ready for it?
   
-####Index
+#### Index
 
 1. [Objective](#objective)
 
@@ -55,19 +55,19 @@ exercises**
 
 10. [Your First Project Starts Now!](#your-first-project-starts-now)
 
-###Objective
+### Objective
 
 This course teaches the basics of Java development applications.
 
 → [index](#index)
 
-###Who Should Attend
+### Who Should Attend
 
 The training will start at a low level and does not require in depth knowledge of the platform in question. Desirable participant profile: trainees and outside Globant candidates. A basic knowledge on OOP is desired, though.
 
 → [index](#index)
 
-###Duration
+### Duration
 
 Four weeks total.
 
@@ -75,11 +75,11 @@ Three weeks for guided learning and one week for app development.
 
 → [index](#index)
 
-###Technical Assistance
+### Technical Assistance
 
 You can contact other bootcamp participants or any available tutor if you need technical assistance. We will create one chat for boot camp members only, and another one for boot camp members and tutors when boot camp starts.
 
-###Performance Measurement
+### Performance Measurement
 
 1. Code review after each practice.
 
@@ -88,13 +88,13 @@ You can contact other bootcamp participants or any available tutor if you need t
 → [index](#index)
 
 
-###Handling Advanced Developers
+### Handling Advanced Developers
 
 Developers that move faster than average can go ahead and complete as much exercises as wanted. 
 
 → [index](#index)
 
-###Materials
+### Materials
 
 1. Install [Java SDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
 
@@ -110,7 +110,7 @@ Developers that move faster than average can go ahead and complete as much exerc
 
  
 
-###General Guidelines
+### General Guidelines
 
 The boot camp is organized in the following way:
 
@@ -133,7 +133,7 @@ Every person participating in the bootcamp is present here (students, tutors and
 
 → [index](#index)
 
-###Proposed Test Applications
+### Proposed Test Applications
 
 The test application will consist in a functional shopping cart (just REST api). The minimum features to be completed are:
 
@@ -143,20 +143,20 @@ The test application will consist in a functional shopping cart (just REST api).
   - Find products by category and name.
 
 
-###Learning Days###
+### Learning Days
 
 Each day you will grab the fundamentals of the key building blocks for usual Java applications.
 
 On each learning day you will have to:
 
-1. ####Read:####
+1. #### Read:
 We will provide you with documentation related with current sprint content so you can have a background reference, guide and examples to complete the following practice.
 
-2. ####Practice:####
+2. #### Practice:
 You will implement the previously gathered knowledge in simple coding activities.
 Most important task numbers are listed in the "*Key Points*" section for each day and they should get most of your attention; if you feel you don’t have enough time to complete all tasks, start with these ones when possible.
 
-3. ####Commit:####
+3. #### Commit:
 You will commit all your code on a daily basis, when you finish your practice.
 
 ### Introduction
@@ -165,9 +165,9 @@ You will commit all your code on a daily basis, when you finish your practice.
   - [JVM - II](http://www.oracle.com/webfolder/technetwork/tutorials/obe/java/gc01/index.html)
 
 
-####Topic 0: Introduction to Object Oriented Programming Concepts (1 day)####
+#### Topic 0: Introduction to Object Oriented Programming Concepts (1 day)
 
-#####Reading:#####
+##### Reading:#####
 
 1. Beginners: Java Concepts [basic tutorial](http://docs.oracle.com/javase/tutorial/java/concepts/) (in case you need it!)
 
@@ -175,43 +175,43 @@ You will commit all your code on a daily basis, when you finish your practice.
 
 3. Explore [Design Patterns](http://www.avajava.com/tutorials/categories/design-patterns)
 
-#####Extra documentation:#####
+##### Extra documentation:
 
 * [Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
 
 * [Design Patterns CD](http://www.saeedsh.com/resources/Design%20Patterns.pdf)
 
-#####Practice:#####
+##### Practice:
 
 1. [OOP Exercises](http://www.ntu.edu.sg/home/ehchua/programming/java/J3f_OOPExercises.html)
 2. Design a building like a house and provide a builder to build it.
 3. Design a hospital and provide classes to build it (builder, factories, etc).
 
-#####Key Points:#####
+##### Key Points:
 
 2,3
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-####Topic 1: Design Patterns (3 days)####
+#### Topic 1: Design Patterns (3 days)
 
-#####Reading:#####
+##### Reading:
 1. [Design Patterns CD](http://www.saeedsh.com/resources/Design%20Patterns.pdf)
 
 2. Explore [Design Patterns](http://www.avajava.com/tutorials/categories/design-patterns)
 
-#####Extra documentation:#####
+##### Extra documentation:
 
 * [Design Patterns Card](http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf)
 
 * [Refactoring to Patterns Catalog](http://www.industriallogic.com/xp/refactoring/catalog.html)
 
-#####Practice:#####
+##### Practice:
 
 1. Create a ShoppingCart where a user can buy different items and then decide how to pay them:
  
@@ -252,20 +252,20 @@ Commit your practice code.
 
 7. Audio Player: Modelate an application for listening music. You can play, stop and pause tracks.
 
-#####Key Points:#####
+##### Key Points:
 
 1, 2, 3, 4, 5, 6, 7
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-####Topic 2: Maven (1 day)####
+#### Topic 2: Maven (1 day)
 
-#####Reading:#####
+##### Reading:
 1. [What is Maven?](http://maven.apache.org/what-is-maven.html)
 
 2. Have fun with [Maven in 5 minutes](http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html). 
@@ -276,7 +276,7 @@ Commit your practice code.
 
 5. Maven: [best practices](http://books.sonatype.com/mvnref-book/reference/pom-relationships-sect-pom-best-practice.html)
 
-#####Practice:#####
+##### Practice:
 
 (It is assumed that Maven is already installed and working. I think it is not needed as an excercise to install maven locally).
 
@@ -290,20 +290,20 @@ Commit your practice code.
 5. A Multi-module Project.
    Create a multi-module project that combines work done on previous points (2 and 5). The idea when completing this point is to be able to use Maven to develop complex, multi-module projects.
 
-#####Key Points:#####
+##### Key Points:
 
 1,4,5
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-####Topic 3: Test Driven Development (2 day)####
+#### Topic 3: Test Driven Development (2 day)
 
-#####Reading:#####
+##### Reading:
 1. Watch the following videos:
 
    - [Test-driven development tutorial](https://www.youtube.com/watch?v=QCif_-r8eK4)
@@ -314,7 +314,7 @@ Commit your practice code.
 
 3. Have fun with [Test Driven Development in Java using Eclipse](https://www.youtube.com/watch?v=OluA0uJP9ts). 
 
-#####Practice:#####
+##### Practice:
 
 1. Convert an amount on a check to appropiate text. For example:
   * 2523.04 --> Two thousand five hundred twenty-three and 04/100 dollars
@@ -345,25 +345,25 @@ Commit your practice code.
   * Show blog entry with a certain tag
   * And so on...
 
-#####Key Points:#####
+##### Key Points:
 
 1,2,3,4
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-####Topic 4: Services (3 days)####
+#### Topic 4: Services (3 days)
 
-#####Reading:#####
+##### Reading:
 1. [How to create services in Java](http://www.makinggoodsoftware.com/2009/11/17/how-to-create-services-in-java/)
 
 2. [How to design a good API and why it matters](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 
-#####Practice:#####
+##### Practice:
 
 1. Create a shopping cart API spec
 2. Implement the previous shopping cart using TDD.
@@ -377,20 +377,20 @@ Note: you can choose any endpoint documentation standard. As an example you can 
 
 Note 2: Do not implement JPA or ORM. Services should return in memory data only.
 
-#####Key Points:#####
+##### Key Points:
 
 2,4,7
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-####Topic 5: SQL - MySql (1 day)####
+#### Topic 5: SQL - MySql (1 day)####
 
-#####Reading:#####
+##### Reading:
 1. [MySql basis](http://www.vogella.com/tutorials/MySQL/article.html)
 
 2. [Jdbc basis](http://www.vogella.com/tutorials/MySQLJava/article.html#jdbc)
@@ -398,7 +398,7 @@ Commit your practice code.
 3. [Optimizaciones en MySql](http://www.arsys.info/programacion/bases-de-datos/como-optimizar-bases-de-datos-mysql/)
 
 
-#####Practice:#####
+##### Practice:
 
 1. Create a database named 'high-school' and modelate:
  
@@ -438,11 +438,11 @@ Commit your practice code.
 10. Add a new column to the previous table (assigned teacher) and update it with the proper information.
 11. Delete the oldest teacher (courses assigned to her should be empty).
 
-#####Key Points:#####
+##### Key Points:
 
 1,2,3,4,5,8
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
@@ -451,7 +451,7 @@ Commit your practice code.
 
 ####Topic 6: Spring Core & REST (3 day)####
 
-#####Reading:#####
+##### Reading:
 1. [Quick guide](http://www.tutorialspoint.com/spring/spring_quick_guide.htm)
 
 2. [Spring boot](http://docs.spring.io/spring-boot/docs/1.2.1.BUILD-SNAPSHOT/reference/htmlsingle/) up to point III (included)
@@ -462,30 +462,30 @@ Commit your practice code.
 
 5. [Spring boot - rest services guide](http://spring.io/guides/tutorials/bookmarks/)
   
-#####Practice:#####
+##### Practice:
 
 1. Expose the shopping cart created in the topic 4.
 2. Create a REST API to create, update and remove meetings. Note that a meeting has attendees, room and a time slot. Attendees and rooms exists in the system and must be retrieved by an endpoint to create the meeting. You must provide the following features: create meetings, query existing ones, cancel and update meetings.
 
-#####Key Points:#####
+##### Key Points:
 
 2
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-####Topic 7: ORM (1 day)####
+#### Topic 7: ORM (1 day)
 
-#####Reading:#####
+##### Reading:
 1. [Spring ORM integration](http://docs.spring.io/spring/docs/current/spring-framework-reference/html/orm.html)
 
 2. Spring Boot and [JPA integration](http://spring.io/guides/gs/accessing-data-jpa/)
 
-#####Practice:#####
+##### Practice:
 
 1. Configure Spring ORM to connect to the DB created on Topic 5.
 2. Implement JPA objects for the entities you created on Topic 5.
@@ -495,19 +495,19 @@ Commit your practice code.
 4. Create a method to fetch all courses of a given student.
 5. Create a method to fetch all students of a given course.
 
-#####Key Points:#####
+##### Key Points:
 
 1,2,3,4,5
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
-####Topic 8: Spring Data & MongoDB (2 day)####
+#### Topic 8: Spring Data & MongoDB (2 day)####
 
-#####Reading:#####
+##### Reading:
 1. [SQL to MongoDB Mapping Chart](http://docs.mongodb.org/manual/reference/sql-comparison)
 
 2. [Installing MongoDB](http://docs.mongodb.org/manual/installation)
@@ -520,7 +520,7 @@ Commit your practice code.
 
 6. [Spring boot and MongoDB](http://docs.mongodb.org/manual/tutorial/getting-started/)
 
-#####Practice:#####
+##### Practice:
 
 1. Using the same SQL-MySql data model, map it to the corresponding database, collections and documents.
 2. Fetch all students whose notes in a specific course were greater than 4.
@@ -528,20 +528,20 @@ Commit your practice code.
 4. Add a new field to “courses” collection to identify which courses are finished.
 5. Create a new project using Spring Data for MongoDB framework and translate items 2, 3 and 4.
 
-#####Key Points:#####
+##### Key Points:
 
 1,2,3,5
 
-#####Commit:#####
+##### Commit:
 
 Commit your practice code.
 
 → [index](#index)
 
 
-###Your First Project Starts Now!
+### Your First Project Starts Now!
 
-####Final Project
+#### Final Project
 Create a functional shopping cart (just REST api). The minimum features to be completed are:
 
   - User registration and login.
